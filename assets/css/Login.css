@@ -7,7 +7,7 @@
 }
 
 body {
-  background-color: #686c78;
+  background-color: #fda950;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -301,7 +301,7 @@ input {
 }
 
 .overlay {
-  background-image: url();
+  background-image: url(../images/bg-2\ 1.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 0 0;
